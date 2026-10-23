@@ -1,5 +1,16 @@
 # VariantSphere-A-Machine-learning-pipeline-to-classify-proteins-into-Pathogenic-and-Benign
 
+📸 Demo & Screenshots
+
+Explore the VariantSphere interface and its key features below.
+
+1. Benign Variant
+   <img width="1280" height="663" alt="1782411242049" src="https://github.com/user-attachments/assets/07d6b019-f042-4569-b1f2-c9cd289518f9" />
+
+2. Pathogenic Varinat
+   <img width="1280" height="649" alt="1782411242793" src="https://github.com/user-attachments/assets/0c198721-b25b-4253-8466-d8c10d7e4771" />
+
+
 # 🧬 VariantSphere — AI-Powered Genetic Variant Analysis
 
 **VariantSphere** is a lightweight AI-powered platform designed to analyze genetic variants and predict their potential classification as **Benign** or **Pathogenic**. It combines machine learning, biochemical feature analysis, ClinVar database lookup, protein structure visualization, and automated PDF report generation into an interactive analysis workflow.
